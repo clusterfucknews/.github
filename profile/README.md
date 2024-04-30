@@ -1,2 +1,2 @@
-# clusterfuck news
+# clusterfuck.news
 coming soon...
